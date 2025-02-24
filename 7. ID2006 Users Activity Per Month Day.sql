@@ -1,4 +1,5 @@
--- Return a distribution of users activity per day of the month. By distribution we mean the number of posts per day of the month.
+-- Return a distribution of users activity per day of the month. 
+-- By distribution we mean the number of posts per day of the month.
 
 
 SELECT 
