@@ -1,8 +1,6 @@
 -- Write a query to get the list of managers whose salary is less than twice the average salary of employees reporting to them. 
 -- For these managers, output their ID, salary and the average salary of employees reporting to them.
 
-
-
 SELECT
     h.manager_empl_id,
     man.salary manager_salary,
